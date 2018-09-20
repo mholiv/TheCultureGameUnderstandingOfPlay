@@ -3,7 +3,7 @@ The Understanding of Play For "The Culture" Play By Email Game.
 
 
 ## Section 0: Meta Understandings
-1. The spirit of these game play understandings shall be that shown in Ian Bank's "Culture" series.
+1. The spirit of these game play understandings shall be that shown in Iain Banks's "Culture" series.
 2. This understanding of play style document shall be modified via git Pull Requests.
 3. Game play understandings changes in the spirit of "The Culture" with consent of the community shall be made and accepted.
 4. If one is unhappy with these game play understandings, anyone may fork and change the understandings at will.
