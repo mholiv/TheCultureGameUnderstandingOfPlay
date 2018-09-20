@@ -23,7 +23,7 @@ The Understanding of Play For "The Culture" Play By Email Game.
 More information about "The Culture" can be found [here](https://en.wikipedia.org/wiki/The_Culture).
 
 ## Section 4: Licensing
-In order to keep this game free and in the spirit of the culture, these game play understandings are released under the This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+In order to keep this game free and in the spirit of the culture, these game play understandings are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)  
 
